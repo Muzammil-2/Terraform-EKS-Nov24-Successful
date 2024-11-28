@@ -1,0 +1,5 @@
+irfan_pem_key.pem
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
